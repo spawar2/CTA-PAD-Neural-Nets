@@ -2,6 +2,9 @@
 [Python: pytorch, tensorflow], Role: Co-PI, (direct, 100%).
 <img width="395" alt="NSF" src="https://github.com/spawar2/CTA-PAD-Neural-Nets/assets/25118302/a993a0fb-b851-49dd-9e56-cb499f91012c">
 <img width="256" alt="Epscor" src="https://github.com/spawar2/CTA-PAD-Neural-Nets/assets/25118302/687b7f15-5184-425b-bb7d-6102fbc5a51a">
+![Poster-2](https://github.com/user-attachments/assets/354fe9d4-8922-44d6-a2f0-2090f0bf7b46)
+![ADAPT-Conference-Agenda](https://github.com/user-attachments/assets/50192df8-1fd7-4f92-b9f9-62ac54d75c54)
+![Poster-1](https://github.com/user-attachments/assets/9e2729d3-79e6-4629-a752-ae1080b065f5)
 https://www.claflin.edu/ Claflin University, Orangeburg, South Carolina, USA.
 (NSF RII Track-1 award funded project): https://scepscor.org/adapt-in-sc-thrust-2/
 https://www.nsf.gov/awardsearch/showAward?AWD_ID=2242812&HistoricalAwards=false
