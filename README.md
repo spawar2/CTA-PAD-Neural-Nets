@@ -5,6 +5,8 @@
 ![Poster-2](https://github.com/user-attachments/assets/354fe9d4-8922-44d6-a2f0-2090f0bf7b46)
 ![ADAPT-Conference-Agenda](https://github.com/user-attachments/assets/50192df8-1fd7-4f92-b9f9-62ac54d75c54)
 ![Poster-1](https://github.com/user-attachments/assets/9e2729d3-79e6-4629-a752-ae1080b065f5)
+![IMG_3030-scaled 2](https://github.com/user-attachments/assets/3bf72f52-5681-4911-8fac-1796e69246ed)
+
 https://www.claflin.edu/ Claflin University, Orangeburg, South Carolina, USA.
 (NSF RII Track-1 award funded project): https://scepscor.org/adapt-in-sc-thrust-2/
 https://www.nsf.gov/awardsearch/showAward?AWD_ID=2242812&HistoricalAwards=false
