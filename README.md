@@ -12,7 +12,7 @@ https://www.claflin.edu/ Claflin University, Orangeburg, South Carolina, USA.
 https://www.nsf.gov/awardsearch/showAward?AWD_ID=2242812&HistoricalAwards=false
 This project in collaboration with https://github.com/Caliese **Caliese J. Beckford+π, https://github.com/Caliese π​++.
 https://github.com/DinariSabb https://www.linkedin.com/in/caliese-beckford-25851821b/?originalSubdomain=jm (Graduate student), Undergraduate student: **Mr. Sabb, Dinari+π,  **Mr. Oluwademiladeayo Ashade+π
-https://www.linkedin.com/in/oluwademiladeayo-ashade-7636ba2a0, (NSF RII Track-1 award funded project), Undergraduate student: Claflin University, Orangeburg, South Carolina, United States of America (USA), South Carolina, USA. (Fall 2023). Machine learning application for biomedical device development. https://www.linkedin.com/in/dinari-sabb-0b62b51ba https://github.com/DinariSabb π​++.
+https://www.linkedin.com/in/oluwademiladeayo-ashade-7636ba2a0, (NSF RII Track-1 award funded project), Undergraduate student: Claflin University, Orangeburg, South Carolina, United States of America (USA), South Carolina, USA. Co-PI/co-PI (Principal Investigator) (Fall 2023). Machine learning application for biomedical device development. https://www.linkedin.com/in/dinari-sabb-0b62b51ba https://github.com/DinariSabb π​++.
 *High School Students: 7; **Undergraduate Students, Department of Computer Science or Biology: 69; ***Graduate/Masters Students: 4; ****Physicians trainees: 4; *****Undergraduate Interns: 6; ******High School Teachers: 2
 Programming language: + Python; ++ R; +++ Python, Javascript, HTML; ++++ Java; +++++ C++
 π: Classes taught: STAT401; BIOL341; BIOL441; CSCI101; CSCI/HNTH391/392; BIOL620; CSCI225; CSCI455; CSCI207; BTEC599/699.
