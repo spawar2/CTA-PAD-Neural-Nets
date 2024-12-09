@@ -1,4 +1,4 @@
-# CTA-PAD-Neural-Nets. Artificial intelligence (AI).
+# CTA-PAD-Neural-Nets. Artificial intelligence (AI). December, 9, 2024.
 [Python: pytorch, tensorflow], Role: Co-PI, (Direct costs, Effort=100%).
 <img width="395" alt="NSF" src="https://github.com/spawar2/CTA-PAD-Neural-Nets/assets/25118302/a993a0fb-b851-49dd-9e56-cb499f91012c">
 <img width="256" alt="Epscor" src="https://github.com/spawar2/CTA-PAD-Neural-Nets/assets/25118302/687b7f15-5184-425b-bb7d-6102fbc5a51a">
