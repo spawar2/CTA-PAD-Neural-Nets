@@ -15,6 +15,17 @@ https://www.nsf.gov/awardsearch/showAward?AWD_ID=2242812&HistoricalAwards=false
 This project in collaboration with https://github.com/Caliese **Caliese J. Beckford+π (Thesis Advisor), https://github.com/Caliese π​++.
 https://github.com/DinariSabb https://www.linkedin.com/in/caliese-beckford-25851821b/?originalSubdomain=jm (Graduate student), Undergraduate student: **Mr. Sabb, Dinari+π (Thesis Advisor),  **Mr. Oluwademiladeayo Ashade+π (Thesis Advisor)
 https://www.linkedin.com/in/oluwademiladeayo-ashade-7636ba2a0, (NSF RII Track-1 award funded project), Undergraduate student: Claflin University, Orangeburg, South Carolina, United States of America (USA), South Carolina, USA. Co-PI/co-PI (Principal Investigator) (Fall 2023). Machine learning application for biomedical device development. https://www.linkedin.com/in/dinari-sabb-0b62b51ba https://github.com/DinariSabb π​++.
+**Mr. Subash Neupane+π (Thesis Advisor), Undergraduate student: Claflin University, Orangeburg, South Carolina, USA. (Fall 2026). 
+https://www.linkedin.com/in/subash-neupane-aa07ba228?
+
+**Mr. Amrinder Singh+π (Thesis Advisor), Undergraduate student: Claflin University, Orangeburg, South Carolina, USA. (Fall 2026). 
+https://www.linkedin.com/in/amrinder-singh-b74426251
+
+(National Science Foundation (NSF) South Carolina Established Program for Stem Cooperative Research (SC EPSCoR), Grant/award/project title: “AI-enabled Devices for the Advancement of Personalized and Transformative Healthcare in South Carolina (ADAPT)",RII Track-1 award funded Role: Co-PI, NSF Identifier: 000879633, Award Number: 2242812, Award/Fund Agency Code: 4900, Program Element/Reference Code's (PEC/Congressional District): 193Y00, 075Z/7715/8037/9150/SMET/03, Assistance Listing Number: 47.083 (Direct costs, Effort=100%) project)
+
+https://scepscor.org/adapt-in-sc-thrust-2/
+https://www.nsf.gov/awardsearch/showAward?AWD_ID=2242812&HistoricalAwards=false
+
 *High School Students: 7; **Undergraduate Students, Department of Computer Science or Biology: 69; ***Graduate/Masters Students: 4; ****Physicians trainees: 4; *****Undergraduate Interns: 6; ******High School Teachers: 2
 Programming language: + Python; ++ R; +++ Python, Javascript, HTML; ++++ Java; +++++ C++
 π: Classes taught: STAT401; BIOL341; BIOL441; CSCI101; CSCI/HNTH391/392; BIOL620; CSCI225; CSCI455; CSCI207; BTEC599/699.
