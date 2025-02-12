@@ -7,7 +7,7 @@
 ![Poster-1 Presentation](https://github.com/user-attachments/assets/9e2729d3-79e6-4629-a752-ae1080b065f5)
 ![IMG_3030-scaled 2](https://github.com/user-attachments/assets/3bf72f52-5681-4911-8fac-1796e69246ed)
 (August 1, 2023- August 31, 2027).
-Award (Start date- End date). Program Element/Reference Code's (PEC/Congressional District): 193Y00, 075Z/7715/8037/9150/SMET/03, Assistance Listing Number: 47.083.
+Award (Start date- End date). Program Element/Reference Code's (PEC/Congressional District): 193Y00, 075Z/7715/8037/9150/SMET/03, Assistance Listing Number: 47.083, 1.50 person per month release.
 https://www.claflin.edu/academics-research/schools-departments/school-of-natural-sciences-and-mathematics/department-of-mathematics-computer-science/computer-science
 https://www.claflin.edu/ Claflin University, Orangeburg, South Carolina, USA.
 (NSF RII Track-1 award funded project): https://scepscor.org/adapt-in-sc-thrust-2/
@@ -21,7 +21,7 @@ https://www.linkedin.com/in/subash-neupane-aa07ba228?
 **Mr. Amrinder Singh+π (Thesis Advisor), Undergraduate student: Claflin University, Orangeburg, South Carolina, USA. (Fall 2026). 
 https://www.linkedin.com/in/amrinder-singh-b74426251
 
-(National Science Foundation (NSF) South Carolina Established Program for Stem Cooperative Research (SC EPSCoR), Grant/award/project title: “AI-enabled Devices for the Advancement of Personalized and Transformative Healthcare in South Carolina (ADAPT)",RII Track-1 award funded Role: Co-PI, NSF Identifier: 000879633, Award Number: 2242812, Award/Fund Agency Code: 4900, Program Element/Reference Code's (PEC/Congressional District): 193Y00, 075Z/7715/8037/9150/SMET/03, Assistance Listing Number: 47.083 (Direct costs, Effort=100%) project)
+(National Science Foundation (NSF) South Carolina Established Program for Stem Cooperative Research (SC EPSCoR), Grant/award/project title: “AI-enabled Devices for the Advancement of Personalized and Transformative Healthcare in South Carolina (ADAPT)",RII Track-1 award funded Role: Co-PI, NSF Identifier: 000879633, Award Number: 2242812, Award/Fund Agency Code: 4900, Program Element/Reference Code's (PEC/Congressional District): 193Y00, 075Z/7715/8037/9150/SMET/03, Assistance Listing Number: 47.083 (Direct costs, Effort=100%, 1.50 person per month release project)
 
 https://scepscor.org/adapt-in-sc-thrust-2/
 https://www.nsf.gov/awardsearch/showAward?AWD_ID=2242812&HistoricalAwards=false
