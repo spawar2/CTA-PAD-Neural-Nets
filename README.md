@@ -26,6 +26,16 @@ https://www.linkedin.com/in/amrinder-singh-b74426251
 https://scepscor.org/adapt-in-sc-thrust-2/
 https://www.nsf.gov/awardsearch/showAward?AWD_ID=2242812&HistoricalAwards=false
 
+6th National Big Data Health Science Conference (14,15 February, 2024), University of South Carolina, Columbia, USA, Machine learning applications on CTA data for diagnosis of peripheral artery diseases (PAD), USC-BigData-2024 Poster presentation,  GitHub, (National Science Foundation South Carolina Established Program for Stem Cooperative Research (SC EPSCoR), Grant/award/project title: “AI-enabled Devices for the Advancement of Personalized and Transformative Healthcare in South Carolina (ADAPT)”, RII Track-1 award funded project) Role: Co-PI, NSF Identifier: 000879633, Award Number: 2242812, Award/Fund Agency Code: 4900, Program Element/Reference Code’s (PEC/Congressional District): 193Y00, 075Z/7715/8037/9150/SMET/03, Assistance Listing Number: 47.083,(August 1, 2023- August 31, 2027) (Direct costs, Effort=100%, 1.50 person per month release)^^
+
+https://www.nsf.gov/awardsearch/showAward?AWD_ID=2242812&HistoricalAwards=false
+https://scepscor.org/adapt-in-sc-thrust-2/
+
+https://www.sc-bdhs-conference.org/2025-poster-list/
+
+Poster Presentation: https://campuspress.yale.edu/shrikantpawar/files/2025/02/Big-Data-2025-Poster-300x186.png
+https://campuspress.yale.edu/shrikantpawar/files/2025/02/Screenshot-2025-02-19-at-8.19.13%E2%80%AFAM-300x230.png
+
 *High School Students: 7; **Undergraduate Students, Department of Computer Science or Biology: 69; ***Graduate/Masters Students: 4; ****Physicians trainees: 4; *****Undergraduate Interns: 6; ******High School Teachers: 2
 Programming language: + Python; ++ R; +++ Python, Javascript, HTML; ++++ Java; +++++ C++
 π: Classes taught: STAT401; BIOL341; BIOL441; CSCI101; CSCI/HNTH391/392; BIOL620; CSCI225; CSCI455; CSCI207; BTEC599/699.
