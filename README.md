@@ -13,7 +13,10 @@ https://www.claflin.edu/ Claflin University, Orangeburg, South Carolina, USA.
 (NSF RII Track-1 award funded project): https://scepscor.org/adapt-in-sc-thrust-2/
 https://www.nsf.gov/awardsearch/showAward?AWD_ID=2242812&HistoricalAwards=false
 This project in collaboration with https://github.com/Caliese **Caliese J. Beckford+π (Thesis Advisor), https://github.com/Caliese π​++.
-https://github.com/DinariSabb https://www.linkedin.com/in/caliese-beckford-25851821b/?originalSubdomain=jm (Graduate student), Undergraduate student: **Mr. Sabb, Dinari+π (Thesis Advisor),  **Mr. Oluwademiladeayo Ashade+π (Thesis Advisor)
+https://github.com/DinariSabb https://www.youtube.com/watch?v=Y6skvhHVR2w&ab_channel=ShrikantPawar
+https://campuspress.yale.edu/shrikantpawar/files/2025/03/Dinari-Sabb-Thesis-Presentation.pdf
+https://github.com/spawar2/CTA-PAD-Neural-Nets
+https://campuspress.yale.edu/shrikantpawar/files/2025/03/Dinari-Sabb-300x225.png https://www.linkedin.com/in/caliese-beckford-25851821b/?originalSubdomain=jm (Graduate student), Undergraduate student: **Mr. Sabb, Dinari+π (Thesis Advisor),  **Mr. Oluwademiladeayo Ashade+π (Thesis Advisor)
 https://www.linkedin.com/in/oluwademiladeayo-ashade-7636ba2a0, (NSF RII Track-1 award funded project), Undergraduate student: Claflin University, Orangeburg, South Carolina, United States of America (USA), South Carolina, USA. Co-PI/co-PI (Principal Investigator) (Fall 2023). Machine learning application for biomedical device development. https://www.linkedin.com/in/dinari-sabb-0b62b51ba https://github.com/DinariSabb π​++.
 **Mr. Subash Neupane+π (Thesis Advisor), Undergraduate student: Claflin University, Orangeburg, South Carolina, USA. (Fall 2026). 
 https://www.linkedin.com/in/subash-neupane-aa07ba228?
