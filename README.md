@@ -39,6 +39,8 @@ https://www.claflin.edu/academics-research/special-programs-and-opportunities/ho
 Poster Presentation: https://campuspress.yale.edu/shrikantpawar/files/2024/09/Poster-1-300x143.jpeg **2025:52, 53].
 
 https://www.sc-bdhs-conference.org/2025-poster-list/
+https://campuspress.yale.edu/shrikantpawar/files/2025/03/Dinari-Sabb-Thesis-Presentation.pdf
+https://campuspress.yale.edu/shrikantpawar/files/2025/03/Dinari-Sabb-300x225.png
 
 Poster Presentation: https://campuspress.yale.edu/shrikantpawar/files/2025/02/Big-Data-2025-Poster-300x186.png
 https://campuspress.yale.edu/shrikantpawar/files/2025/02/Screenshot-2025-02-19-at-8.19.13%E2%80%AFAM-300x230.png
