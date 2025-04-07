@@ -38,6 +38,12 @@ https://scepscor.org/adapt-in-sc-thrust-2/
 https://www.claflin.edu/academics-research/special-programs-and-opportunities/honors-college, ++Dinari Sabb+π (Thesis Advisor), Tisdale Verlie, Shrikant Pawar^^GitHub, (National Science Foundation South Carolina Established Program for Stem Cooperative Research (SC EPSCoR), Grant/award/project title: “AI-enabled Devices for the Advancement of Personalized and Transformative Healthcare in South Carolina (ADAPT)”, RII Track-1 award funded project) Role: Co-PI, NSF Identifier: 000879633, Award Number: 2242812, Award/Fund Agency Code: 4900, Program Element/Reference Code’s (PEC/Congressional District): 193Y00, 075Z/7715/8037/9150/SMET/03, Assistance Listing Number: 47.083,(August 1, 2023- August 31, 2027) (Direct costs, Effort=100%, 1.50 person per month release)^^ https://www.claflin.edu/news-events/events/2025/02/21/default-calendar/research-scholarship-and-creative-expression-day 
 Poster Presentation: https://campuspress.yale.edu/shrikantpawar/files/2024/09/Poster-1-300x143.jpeg **2025:52, 53].
 
+
+2025 South Carolina Established Program for Stem Cooperative Research (SC EPSCoR), Annual State Conference, AI-Enabled Construction of Aligned Collagen using Two-Photon Techniques. (National Science Foundation South Carolina Established Program for Stem Cooperative Research (SC EPSCoR), Grant/award/project title: “AI-enabled Devices for the Advancement of Personalized and Transformative Healthcare in South Carolina (ADAPT)" award funded project Role: PI, NSF Identifier: 000879633, (Direct costs, Effort=100%, 1.50 person per month release)), (August 1, 2023- August 31, 2027), Award Number: 2242812, Award/Fund Agency Code: 4900, Program Element/Reference Code's (PEC/Congressional District): 193Y00, 075Z/7715/8037/9150/SMET/03, Assistance Listing Number: 47.083, 4, April 2025, Poster presentation^^
+https://scepscor.org/pawar-shrikant-research-focus/
+https://campuspress.yale.edu/shrikantpawar/files/2025/04/2025_Conference_Program_7_.pdf
+https://campuspress.yale.edu/shrikantpawar/files/2025/04/EpSCOR-State-Conference-2025-300x257.png [55]
+
 https://www.sc-bdhs-conference.org/2025-poster-list/
 https://campuspress.yale.edu/shrikantpawar/files/2025/03/Dinari-Sabb-Thesis-Presentation.pdf
 https://campuspress.yale.edu/shrikantpawar/files/2025/03/Dinari-Sabb-300x225.png
