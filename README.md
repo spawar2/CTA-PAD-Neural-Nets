@@ -63,3 +63,15 @@ Programming language: + Python; ++ R; +++ Python, Javascript, HTML; ++++ Java; +
 
 Programming language: + Python.
 π: Classes taught: CSCI/HNTH391/392 (https://pawar1550.wixsite.com/claflin-courses/copy-of-csci-hnth-391-1).
+
+<img width="863" alt="Screenshot 2025-04-30 at 12 52 57 AM" src="https://github.com/user-attachments/assets/227a713c-4fa3-4a3c-8462-a0d9f6c7dde4" />
+
+Classification Report:
+               precision    recall  f1-score   support
+
+           0       0.99      1.00      1.00       192
+           1       1.00      1.00      1.00       224
+
+    accuracy                           1.00       416
+   macro avg       1.00      1.00      1.00       416
+weighted avg       1.00      1.00      1.00       416
