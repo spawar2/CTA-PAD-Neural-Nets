@@ -16,7 +16,7 @@ This project in collaboration with https://github.com/Caliese **Caliese J. Beckf
 https://github.com/DinariSabb https://www.youtube.com/watch?v=Y6skvhHVR2w&ab_channel=ShrikantPawar
 https://campuspress.yale.edu/shrikantpawar/files/2025/03/Dinari-Sabb-Thesis-Presentation.pdf
 https://github.com/spawar2/CTA-PAD-Neural-Nets
-https://campuspress.yale.edu/shrikantpawar/files/2025/03/Dinari-Sabb-300x225.png https://www.linkedin.com/in/caliese-beckford-25851821b/?originalSubdomain=jm (Graduate student), Undergraduate student: **Mr. Sabb, Dinari+π (Thesis Advisor),  **Mr. Oluwademiladeayo Ashade+π (Thesis Advisor) https://campuspress.yale.edu/shrikantpawar/files/2025/03/Dinari-Sabb-Thesis-Presentation.pdf
+https://campuspress.yale.edu/shrikantpawar/files/2025/03/Dinari-Sabb-300x225.png https://www.linkedin.com/in/caliese-beckford-25851821b/?originalSubdomain=jm (Graduate student), Undergraduate student: **Mr. Sabb, Dinari+π (Thesis Advisor) Student Graduations: https://shorturl.at/jAmLF,  **Mr. Oluwademiladeayo Ashade+π (Thesis Advisor) https://campuspress.yale.edu/shrikantpawar/files/2025/03/Dinari-Sabb-Thesis-Presentation.pdf
 https://github.com/spawar2/CTA-PAD-Neural-Nets
 https://campuspress.yale.edu/shrikantpawar/files/2025/03/Dinari-Sabb-300x225.png Presentation Video PPT:
 https://www.linkedin.com/in/oluwademiladeayo-ashade-7636ba2a0, (NSF RII Track-1 award funded project), Undergraduate student: Claflin University, Orangeburg, South Carolina, United States of America (USA), South Carolina, USA. Co-PI/co-PI (Principal Investigator) (Fall 2023). Machine learning application for biomedical device development. https://www.linkedin.com/in/dinari-sabb-0b62b51ba https://github.com/DinariSabb π​++.
