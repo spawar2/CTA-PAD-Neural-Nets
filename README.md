@@ -12,7 +12,9 @@ https://www.claflin.edu/academics-research/schools-departments/school-of-natural
 https://www.claflin.edu/ Claflin University, Orangeburg, South Carolina, USA.
 (NSF RII Track-1 award funded project): https://scepscor.org/adapt-in-sc-thrust-2/
 https://www.nsf.gov/awardsearch/showAward?AWD_ID=2242812&HistoricalAwards=false
-This project in collaboration with https://github.com/Caliese **Caliese J. Beckford+π (Thesis Advisor), https://github.com/Caliese π​++.
+This project in collaboration with following Research Assistants:
+
+https://github.com/Caliese **Caliese J. Beckford+π (Thesis Advisor), https://github.com/Caliese π​++.
 https://github.com/DinariSabb https://www.youtube.com/watch?v=Y6skvhHVR2w&ab_channel=ShrikantPawar
 https://campuspress.yale.edu/shrikantpawar/files/2025/03/Dinari-Sabb-Thesis-Presentation.pdf
 https://github.com/spawar2/CTA-PAD-Neural-Nets
@@ -25,6 +27,8 @@ https://www.linkedin.com/in/subash-neupane-aa07ba228?
 
 **Mr. Amrinder Singh+π (Thesis Advisor), Undergraduate student: Claflin University, Orangeburg, South Carolina, USA. (Fall 2026). 
 https://www.linkedin.com/in/amrinder-singh-b74426251
+
+**Bimal Itani+π (Thesis Advisor),  Undergraduate student: Claflin University, Orangeburg, South Carolina, USA. (Fall 2026). https://www.linkedin.com/in/bimal-itani100
 
 (National Science Foundation (NSF) South Carolina Established Program for Stem Cooperative Research (SC EPSCoR), Grant/award/project title: “AI-enabled Devices for the Advancement of Personalized and Transformative Healthcare in South Carolina (ADAPT)",RII Track-1 award funded Role: Co-PI, NSF Identifier: 000879633, Award Number: 2242812, Award/Fund Agency Code: 4900, Program Element/Reference Code's (PEC/Congressional District): 193Y00, 075Z/7715/8037/9150/SMET/03, Assistance Listing Number: 47.083 (Direct costs, Effort=100%, 1.50 person per month release project)
 
