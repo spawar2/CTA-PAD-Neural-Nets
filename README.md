@@ -92,6 +92,11 @@ https://www.php.net/
 https://www.mysql.com/
 https://www.mathworks.com/products/matlab.html
 
+<img width="545" height="593" alt="IEEE-BHI-1" src="https://github.com/user-attachments/assets/a3396a4f-0973-4877-ab37-b1f8312a12c4" />
+
+<img width="547" height="687" alt="IEEE-BHI-2" src="https://github.com/user-attachments/assets/7bbe6b50-35b5-422b-8466-4a54a6e014be" />
+
+
 https://www.r-project.org/
 https://www.bioconductor.org/packages/3.21/BiocViews.html#___Software
 https://bioconductor.org/packages/release/bioc/html/GenomicFeatures.html
