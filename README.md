@@ -37,6 +37,7 @@ https://scepscor.org/adapt-in-sc-thrust-2/
 https://www.nsf.gov/awardsearch/showAward?AWD_ID=2242812&HistoricalAwards=false
 https://scepscor.org/research-expertise-profiles-table/
 https://scepscor.org/pawar-shrikant-research-focus/
+https://bpb-us-w2.wpmucdn.com/campuspress.yale.edu/dist/7/3679/files/2024/01/Conferences1-57a4ad9681aaf3a8-300x225.jpg
 
 6th National Big Data Health Science Conference (14,15 February, 2024), University of South Carolina, Columbia, USA, Machine learning applications on CTA data for diagnosis of peripheral artery diseases (PAD), USC-BigData-2024 Poster presentation,  GitHub, (National Science Foundation South Carolina Established Program for Stem Cooperative Research (SC EPSCoR), Grant/award/project title: “AI-enabled Devices for the Advancement of Personalized and Transformative Healthcare in South Carolina (ADAPT)”, RII Track-1 award funded project) Role: Co-PI, NSF Identifier: 000879633, Award Number: 2242812, Award/Fund Agency Code: 4900, Program Element/Reference Code’s (PEC/Congressional District): 193Y00, 075Z/7715/8037/9150/SMET/03, Assistance Listing Number: 47.083,(August 1, 2023- August 31, 2027) (Direct costs, Effort=100%, 1.50 person per month release)^^ ++Cailese Beckford+π (Thesis Advisor), ++Dinari Sabb+π (Thesis Advisor), Tisdale Verlie, Shrikant Pawar^^GitHub,
 https://www.claflin.edu/academics-research/faculty-research/meet-our-faculty/verlie-tisdale
