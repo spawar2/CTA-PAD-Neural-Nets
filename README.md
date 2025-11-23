@@ -98,6 +98,21 @@ https://www.mathworks.com/products/matlab.html
 <img width="547" height="687" alt="IEEE-BHI-2" src="https://github.com/user-attachments/assets/7bbe6b50-35b5-422b-8466-4a54a6e014be" />
 
 
+57. 2025 Annual Biomedical Research Conference for Minoritized Scientists (ABRCMS), San Antonio, Texas, USA, Biomarker Signature Identification for early diagnosis of Acute Lymphoblastic Leukemia (ALL). Jaylin McCollum (Thesis Advisor) & Shrikant Pawar (National Science Foundation South Carolina Established Program for Stem Cooperative Research (SC EPSCoR), Grant/award/project title: “AI-enabled Devices for the Advancement of Personalized and Transformative Healthcare in South Carolina (ADAPT)" award funded project Role: PI, NSF Identifier: 000879633, (Direct costs, Effort=100%, 1.50 person per month release)), (August 1, 2023- August 31, 2027), Award Number: 2242812, Award/Fund Agency Code: 4900, Program Element/Reference Code's (PEC/Congressional District): 193Y00, 075Z/7715/8037/9150/SMET/03, Assistance Listing Number: 47.083, 19-22, November 2025, Poster presentation^^
+https://abrcms.org/program/#schedule-at-a-glance
+https://mailchi.mp/scepscor.org/sc-epscor-newsletter-13711644
+https://scepscor.org/adapt-in-sc-thrust-2/
+https://scepscor.org/pawar-shrikant-research-focus/
+https://scepscor.org/research-expertise-profiles-table/
+
+<img width="537" height="619" alt="ABRCMS-1" src="https://github.com/user-attachments/assets/0fa6da61-4f8c-40af-b2a5-aa3f33479a56" />
+<img width="547" height="604" alt="ABRCMS-2" src="https://github.com/user-attachments/assets/9e59a524-978f-474b-b5bb-9f37cd4f1ad2" />
+<img width="963" height="617" alt="ABRCMS-3" src="https://github.com/user-attachments/assets/f2397843-da75-4dc5-b524-519cc59b0fbd" />
+
+
+
+
+
 https://www.r-project.org/
 https://www.bioconductor.org/packages/3.21/BiocViews.html#___Software
 https://bioconductor.org/packages/release/bioc/html/GenomicFeatures.html
