@@ -110,7 +110,28 @@ https://scepscor.org/research-expertise-profiles-table/
 <img width="963" height="617" alt="ABRCMS-3" src="https://github.com/user-attachments/assets/f2397843-da75-4dc5-b524-519cc59b0fbd" />
 
 
+ROC AUC = 0.855
 
+	•	Accuracy (3, 5, 10 Fold same values), precision0.7817164179104478
+	•	recall0.73325
+	•	f1-score0.7567079463364293
+	•	Support4000  
+	•	Accuracy, precision0.7488820899035067
+	•	recall0.7953011747063234
+	•	f1-score0.7713939393939394
+	•	Support4001 
+	•	Accuracy, precision0.7652992539069772
+	•	recall0.7642755873531617
+	•	f1-score0.7640509428651844
+	•	Support8001  
+	•	Accuracy, precision0.7652972020179628
+	•	recall0.7642794650668666
+	•	f1-score0.7640518606250305
+	•	support8001
+
+<img width="663" height="546" alt="thumbnail_image" src="https://github.com/user-attachments/assets/a520a5f6-0f1c-4d8a-b278-372489013240" />
+
+<img width="640" height="480" alt="thumbnail_image (1)" src="https://github.com/user-attachments/assets/952ee445-a20d-4462-89fb-50324dee82bc" />
 
 
 https://www.r-project.org/
