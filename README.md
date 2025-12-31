@@ -110,9 +110,7 @@ https://scepscor.org/research-expertise-profiles-table/
 <img width="963" height="617" alt="ABRCMS-3" src="https://github.com/user-attachments/assets/f2397843-da75-4dc5-b524-519cc59b0fbd" />
 
 
-ROC AUC = 0.855
-
-	•	Accuracy (3, 5, 10 Fold same values), precision0.7817164179104478
+	•	Accuracy (3, 5, 10 Fold similar values), precision0.7817164179104478
 	•	recall0.73325
 	•	f1-score0.7567079463364293
 	•	Support4000  
@@ -128,6 +126,16 @@ ROC AUC = 0.855
 	•	recall0.7642794650668666
 	•	f1-score0.7640518606250305
 	•	support8001
+
+              Kappa : 1   
+        Sensitivity : 1.0000     
+        Specificity : 1.0000     
+     Pos Pred Value : 1.0000     
+     Neg Pred Value : 1.0000     
+         Prevalence : 0.3333     
+     Detection Rate : 0.3333     
+
+Detection Prevalence : 0.3333 Balanced Accuracy : 1.0000
 
 <img width="663" height="546" alt="thumbnail_image" src="https://github.com/user-attachments/assets/a520a5f6-0f1c-4d8a-b278-372489013240" />
 
