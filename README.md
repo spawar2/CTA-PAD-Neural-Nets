@@ -140,7 +140,7 @@ Detection Prevalence : 0.3333 Balanced Accuracy : 1.0000
 <img width="663" height="546" alt="thumbnail_image" src="https://github.com/user-attachments/assets/a520a5f6-0f1c-4d8a-b278-372489013240" />
 
 <img width="640" height="480" alt="thumbnail_image (1)" src="https://github.com/user-attachments/assets/952ee445-a20d-4462-89fb-50324dee82bc" />
-Collagen-fibril-confusion-matrix:
+Collagen-fibril-identification-confusion-matrix:
 <img width="969" height="104" alt="Collagen-fibril-confusion-matrix" src="https://github.com/user-attachments/assets/c1abc485-e4ba-4368-9e7c-53b3f2d37d59" />
 
 https://www.r-project.org/
