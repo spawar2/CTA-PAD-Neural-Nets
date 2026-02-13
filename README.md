@@ -24,7 +24,7 @@ https://github.com/spawar2/CTA-PAD-Neural-Nets
 https://campuspress.yale.edu/shrikantpawar/files/2025/03/Dinari-Sabb-300x225.png Presentation Video PPT:
 https://www.linkedin.com/in/oluwademiladeayo-ashade-7636ba2a0, (NSF RII Track-1 award funded project), Undergraduate student: Claflin University, Orangeburg, South Carolina, United States of America (USA), South Carolina, USA. Co-PI/co-PI (Principal Investigator) (Fall 2023). Machine learning application for biomedical device development. https://www.linkedin.com/in/dinari-sabb-0b62b51ba https://github.com/DinariSabb π​++.
 **Mr. Subash Neupane+π (Thesis Advisor), Undergraduate student: Claflin University, Orangeburg, South Carolina, USA. (Fall 2026). 
-https://www.linkedin.com/in/subash-neupane-aa07ba228?
+https://www.linkedin.com/in/subash-neupane-aa07ba228? https://www.linkedin.com/in/swikriti-neupane-
 
 **Mr. Amrinder Singh+π (Thesis Advisor), Undergraduate student: Claflin University, Orangeburg, South Carolina, USA. (Fall 2026). 
 https://www.linkedin.com/in/amrinder-singh-b74426251
@@ -142,6 +142,22 @@ Detection Prevalence : 0.3333 Balanced Accuracy : 1.0000
 <img width="640" height="480" alt="thumbnail_image (1)" src="https://github.com/user-attachments/assets/952ee445-a20d-4462-89fb-50324dee82bc" />
 Collagen-fibril-identification-confusion-matrix:
 <img width="969" height="104" alt="Collagen-fibril-confusion-matrix" src="https://github.com/user-attachments/assets/c1abc485-e4ba-4368-9e7c-53b3f2d37d59" />
+
+
+[**2026:58, 59]
+
+https://www.sc-bdhs-conference.org/agenda-2026/
+
+*7th National Big Data Health Science Conference (12,13 February, 2026), University of South Carolina, Columbia, USA, Machine learning applications on CTA data for diagnosis of peripheral artery diseases (PAD), USC-BigData-2026 Poster presentation, ++Amrinder Singh, Caliese Beckford, Subash Neupane, Oluwademiladeayo Ashade, Swikriti Neupane, Bimal Itani(+π)  Presentation Video PPT, (Thesis Advisor), Tisdale Verlie, Shrikant Pawar (Pawar Shrikant/SD)^^^GitHub, (National Science Foundation South Carolina Established Program for Stem Cooperative Research (SC EPSCoR), Grant/award/project title: “AI-enabled Devices for the Advancement of Personalized and Transformative Healthcare in South Carolina (ADAPT)”, RII Track-1 award funded project) Role: PI, NSF Identifier: 000879633, Award Number: 2242812, Award/Fund Agency Code: 4900, Program Element/Reference Code’s (PEC/Congressional District): 193Y00, 075Z/7715/8037/9150/SMET/03, Assistance Listing Number: 47.083,(August 1, 2023- August 31, 2027) (Direct costs, Effort=100%, 1.50 person per month release)^^ [**2025:52].
+
+
+*7th National Big Data Health Science Conference (12,13 February, 2026), University of South Carolina, Columbia, USA, AI-Enabled Construction of Aligned Collagen Using Two-Photon Techniques, USC-BigData-2026 Poster presentation, ++Cailese Beckford+π (Thesis Advisor), Wesley Nichols, Zhi Gao, Presentation Video PPT, (Thesis Advisor), Tisdale Verlie, Shrikant Pawar (Pawar Shrikant/SD)^^^GitHub, (National Science Foundation South Carolina Established Program for Stem Cooperative Research (SC EPSCoR), Grant/award/project title: “AI-enabled Devices for the Advancement of Personalized and Transformative Healthcare in South Carolina (ADAPT)”, RII Track-1 award funded project),  GAIN CRP Subaward, Clemson University (Grants for Applications in Industry and Networking Collaborative Research Program): AI-Enabled Construction of Aligned Collagen Using Two-Photon Techniques (May 1, 2024- August 31, 2025): Total Award (Direct and indirect costs). Role: PI, NSF Identifier: 000879633, Award Number: 2242812, Award/Fund Agency Code: 4900, Program Element/Reference Code’s (PEC/Congressional District): 193Y00, 075Z/7715/8037/9150/SMET/03, Assistance Listing Number: 47.083,(August 1, 2023- August 31, 2027) (Direct costs, Effort=100%, 1.50 person per month release)^^ [**2025:52].
+
+<img width="627" height="469" alt="USC-Big-Data-1" src="https://github.com/user-attachments/assets/e65677dd-d0eb-4060-ab2a-1d49f5a9131f" />
+<img width="562" height="541" alt="USC-Big-Data-2" src="https://github.com/user-attachments/assets/7de0cace-77fa-4dde-bfa7-e109dbb3a57d" />
+<img width="640" height="482" alt="USC-Big-Data-3" src="https://github.com/user-attachments/assets/6a977309-c70a-4d76-9ab3-a755a665c8f3" />
+<img width="291" height="392" alt="USC-Big-Data-5" src="https://github.com/user-attachments/assets/41c35224-3868-46ce-b729-66b618f77e27" />
+<img width="529" height="160" alt="USC-Big-Data-6" src="https://github.com/user-attachments/assets/a0b0332b-b1fa-4cb0-97b9-bbaf94cce936" />
 
 https://www.r-project.org/
 https://www.bioconductor.org/packages/3.21/BiocViews.html#___Software
