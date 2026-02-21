@@ -153,6 +153,25 @@ https://www.sc-bdhs-conference.org/agenda-2026/
 
 *7th National Big Data Health Science Conference (12,13 February, 2026), University of South Carolina, Columbia, USA, AI-Enabled Construction of Aligned Collagen Using Two-Photon Techniques, USC-BigData-2026 Poster presentation, ++Cailese Beckford+π (Thesis Advisor), Wesley Nichols, Zhi Gao, Presentation Video PPT, (Thesis Advisor), Tisdale Verlie, Shrikant Pawar (Pawar Shrikant/SD)^^^GitHub, (National Science Foundation South Carolina Established Program for Stem Cooperative Research (SC EPSCoR), Grant/award/project title: “AI-enabled Devices for the Advancement of Personalized and Transformative Healthcare in South Carolina (ADAPT)”, RII Track-1 award funded project),  GAIN CRP Subaward, Clemson University (Grants for Applications in Industry and Networking Collaborative Research Program): AI-Enabled Construction of Aligned Collagen Using Two-Photon Techniques (May 1, 2024- August 31, 2025): Total Award (Direct and indirect costs). Role: PI, NSF Identifier: 000879633, Award Number: 2242812, Award/Fund Agency Code: 4900, Program Element/Reference Code’s (PEC/Congressional District): 193Y00, 075Z/7715/8037/9150/SMET/03, Assistance Listing Number: 47.083,(August 1, 2023- August 31, 2027) (Direct costs, Effort=100%, 1.50 person per month release)^^ [**2025:52].
 
+[60]
+
+*2026 Research, Scholarship & Creative Expression Days (19,20 February, 2026), Claflin University, Orangeburg, South Carolina USA, Machine learning applications on CTA data for diagnosis of peripheral artery diseases (PAD), 2026 Poster presentation, ++Amrinder Singh, Caliese Beckford, Subash Neupane, Oluwademiladeayo Ashade, Swikriti Neupane, Bimal Itani(+π)  Presentation Video PPT, (Thesis Advisor), Tisdale Verlie, Shrikant Pawar (Pawar Shrikant/SD)^^^GitHub, (National Science Foundation South Carolina Established Program for Stem Cooperative Research (SC EPSCoR), Grant/award/project title: “AI-enabled Devices for the Advancement of Personalized and Transformative Healthcare in South Carolina (ADAPT)”, RII Track-1 award funded project) Role: PI, NSF Identifier: 000879633, Award Number: 2242812, Award/Fund Agency Code: 4900, Program Element/Reference Code’s (PEC/Congressional District): 193Y00, 075Z/7715/8037/9150/SMET/03, Assistance Listing Number: 47.083,(August 1, 2023- August 31, 2027) (Direct costs, Effort=100%, 1.50 person per month release)^^ [**2025:52].
+
+https://www.claflin.edu/news-events/events/2026/02/19/default-calendar/research-scholarship-creative-expression-days
+https://shorturl.at/rSgyN
+https://shorturl.at/x3wva
+https://www.linkedin.com/in/amrinder-singh-b74426251
+https://www.linkedin.com/in/caliese-beckford-25851821b/?originalSubdomain=jm
+https://www.linkedin.com/in/subash-neupane
+https://www.linkedin.com/in/oluwademiladeayo-ashade-7636ba2a0
+https://www.linkedin.com/in/swikriti-neupane-
+https://www.linkedin.com/in/bimal-itani-599465254
+https://github.com/spawar2/CTA-PAD-Neural-Nets
+https://scepscor.org/adapt-in-sc-thrust-2/
+https://www.nsf.gov/awardsearch/showAward?AWD_ID=2242812&HistoricalAwards=false
+https://scepscor.org/research-expertise-profiles-table/
+https://link.springer.com/article/10.1186/s12919-025-00328-2
+
 <img width="627" height="469" alt="USC-Big-Data-1" src="https://github.com/user-attachments/assets/e65677dd-d0eb-4060-ab2a-1d49f5a9131f" />
 <img width="562" height="541" alt="USC-Big-Data-2" src="https://github.com/user-attachments/assets/7de0cace-77fa-4dde-bfa7-e109dbb3a57d" />
 <img width="640" height="482" alt="USC-Big-Data-3" src="https://github.com/user-attachments/assets/6a977309-c70a-4d76-9ab3-a755a665c8f3" />
