@@ -25,7 +25,8 @@ https://campuspress.yale.edu/shrikantpawar/files/2025/03/Dinari-Sabb-300x225.png
 https://www.linkedin.com/in/oluwademiladeayo-ashade-7636ba2a0, (NSF RII Track-1 award funded project), Undergraduate student: Claflin University, Orangeburg, South Carolina, United States of America (USA), South Carolina, USA. Co-PI/co-PI (Principal Investigator) (Fall 2023). Machine learning application for biomedical device development. https://www.linkedin.com/in/dinari-sabb-0b62b51ba https://github.com/DinariSabb π​++.
 **Mr. Subash Neupane+π (Thesis Advisor), Undergraduate student: Claflin University, Orangeburg, South Carolina, USA. (Fall 2026). 
 https://www.linkedin.com/in/subash-neupane-aa07ba228? https://www.linkedin.com/in/swikriti-neupane-
-
+**Swikriti Neupane+π (Thesis Advisor), Undergraduate student:  Claflin University, Orangeburg, South Carolina, USA.
+https://www.linkedin.com/in/swikriti-neupane-
 **Mr. Amrinder Singh+π (Thesis Advisor), Undergraduate student: Claflin University, Orangeburg, South Carolina, USA. (Fall 2026). 
 https://www.linkedin.com/in/amrinder-singh-b74426251
 
